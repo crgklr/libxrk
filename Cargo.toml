@@ -4,7 +4,7 @@ resolver = "2"
 
 [workspace.dependencies]
 arrow = { version = "57", default-features = false }
-binrw = "0.14"
+binrw = "0.15"
 flate2 = "1"
 
 [profile.release]
